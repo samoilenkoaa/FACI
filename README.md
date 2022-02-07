@@ -21,9 +21,9 @@
 
 <li> MVVM </li>
 <li> HILT </li>
-<li> RXJava2 </li>
+<li> RXJava3 </li>
 <li> Coroutines </li>
-<li> Room (Many-to-many relations) </li>
+<li> Room </li>
 <li> Extension functions </li>
 <li> Retrofit </li>
 <li> JSON data parsing </li>
