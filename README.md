@@ -1,7 +1,7 @@
 # FACI
 *(Favorite cinema)*
 
-[Google Play](#https://play.google.com/store/apps/details?id=com.bignerdranch.android.faci)
+[Google Play](https://play.google.com/store/apps/details?id=com.bignerdranch.android.faci)
  
 ## Описание: 
 Все новинки и самые популярные фильмы у тебя в смартфоне. FACI- это возможность каждый день получать самую свежую информацию из мира кино.
